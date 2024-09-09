@@ -1,3 +1,4 @@
+
 # Privacy Policy
 
 ## Introduction
@@ -13,7 +14,10 @@ By using the Service, you agree to the collection and use of information in acco
 While using our Service, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you ("Personal Information"). This may include, but is not limited to:
 
 - **Phone number:** To access the Service, you are required to provide your phone number, which will be verified through an SMS code (OTP - One-Time Password). This information is essential for creating your account and tracking your achievements within the game.
-- **Contacts (optional):** With your permission, we may access your contacts to enhance your engagement experience by providing notifications and updates about your contacts' activities within the game.
+- **Contacts (optional):** With your explicit permission, we may access and upload your contacts to our server to improve your gameplay experience. Specifically, this data will be used to connect you with friends who are also using the app, enabling you to compete with them directly and monitor their progress. You can still use the app if you choose not to share your contacts, though some competitive features may be limited.
+
+#### How We Obtain Your Consent for Contacts:
+Before accessing and uploading your contacts, we will clearly inform you of our intent and request your consent. If you decline, we will not access or upload your contacts to our server.
 
 ### Usage Data
 
@@ -33,11 +37,15 @@ We use the collected data for various purposes:
 - To provide customer support
 - To monitor the usage of our Service
 - To detect, prevent, and address technical issues
-- To improve your gaming experience by connecting with your contacts within the game
+- To improve your gaming experience by connecting you with your contacts within the game (only with your explicit consent)
 
 ## Disclosure of Data
 
 We will not share your Personal Information with third parties except as described in this Privacy Policy or unless required by law. Your data is kept strictly confidential and is used only to improve your experience with the Service.
+
+## Contacts Data
+
+If you choose to grant access to your contacts, we may upload this data to our server to enable connection with your friends who are also using the app. This information will be used solely for this purpose and will not be shared with any third parties, except as required by law. You may withdraw this permission at any time by adjusting the settings in the app, at which point we will stop collecting and using your contacts data.
 
 ## Links to Other Sites
 
@@ -53,7 +61,6 @@ If you are a parent or guardian and you are aware that your child has provided u
 
 We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page. You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.
 
-
 ## Contact Us
 
 If you have any questions about this Privacy Policy, please contact us:
@@ -64,3 +71,4 @@ If you have any questions about this Privacy Policy, please contact us:
 
 We are committed to addressing any concerns you may have regarding your privacy and the security of your personal data. Please do not hesitate to reach out to us with any questions or concerns.
 
+---
